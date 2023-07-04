@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\DRAGISA\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\DRAGISA\\.nuget\\packages"
+    ]
+  }
+}
